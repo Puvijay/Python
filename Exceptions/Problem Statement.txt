@@ -1,0 +1,22 @@
+Exception Handling Problem Statements 
+
+A) Write a program that requests employee salary. As everybody’s salary is positive. Therefore, figure 
+out what to do if the user types a negative number. The expression that checks whether the salary 
+entered is positive can be written as: if(Empsalary < 0) If the condition is true, then alert the employee 
+to enter a valid salary.
+
+B) Create a class MyCalculator which consists of a single method long power (int, int) which compute 
+the power of a number. This method takes two integers, and, as parameters and finds. If either or is 
+negative, then the method must throw an exception which says “n or p should not be negative ". Also, 
+if both and are zero, then the method must throw an exception which says " n or p should not be Zero” 
+For example, -4 and -5 would result in “Exception : n or p should not be negative” Complete 
+the function power in class MyCalculator and return the appropriate result after the power operation 
+or an appropriate exception as detailed above.
+
+C) Create a Python program for Exception Handling mechanism to create your own exception class name 
+“InitialDepositException” for having initial deposit more than 3000.
+
+D) Write a Python program to handle an exception while validating the eligible age for voting. The eligible 
+age is 18. The program should allow the eligible user to vote and raise exception if not eligible. 
+
+E) Write a Python program to handle all the exceptions while dividing a number by string or zero.
